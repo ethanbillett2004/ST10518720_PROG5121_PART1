@@ -1,9 +1,9 @@
 # Chat Application Part 1
 
 ## Student Information
-  -Name: Ethan Gareth Billett
-  -Student Number: ST10518720
-  -Module: PROG5121
+  - Name: Ethan Gareth Billett
+  - Student Number: ST10518720
+  - Module: PROG5121
 
 ---
 
