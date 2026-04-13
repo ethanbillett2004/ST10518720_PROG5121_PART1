@@ -46,5 +46,6 @@
   - Username validation
   - Password validation
   - Phone number validation
+  - 
   - Registration and login functionality
 
